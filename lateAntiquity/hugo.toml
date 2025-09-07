@@ -1,6 +1,0 @@
-baseURL = 'url'
-languageCode = 'en-us'
-title = 'HIS210 Precept 05'
-theme = 'dario'
-
-enableEmoji = true
