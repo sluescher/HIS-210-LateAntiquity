@@ -6,4 +6,4 @@ theme = 'dario'
 enableEmoji = true
 
 [params]
-  body_classes = "helvetica"
+  body_classes = "Newsreader"
