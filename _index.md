@@ -197,6 +197,7 @@ Essays will focus on larger issues addressed in class lectures and assigned read
 
 [Go back to the top](#overview)
 
+![Divider](images/divider_large.png)
 
 ## Policies
 **Diversity, Inclusion, and Support Statement**  
