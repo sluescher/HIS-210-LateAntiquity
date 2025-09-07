@@ -1,4 +1,4 @@
-baseURL = 'url'
+baseURL = 'https://sluescher.github.io/HIS-210/'
 languageCode = 'en-us'
 title = 'HIS210 Precept 05'
 theme = 'dario'
