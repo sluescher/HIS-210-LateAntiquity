@@ -4,3 +4,6 @@ title = 'HIS210 Precept 05'
 theme = 'dario'
 
 enableEmoji = true
+
+[params]
+  body_classes = "helvetica"
