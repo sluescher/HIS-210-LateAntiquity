@@ -52,20 +52,6 @@ Precept participation counts for **10%** of the final grade, but if you fail to 
 - (Ps.-?) Aelius Aristides, “Regarding the Emperor.” From Charles A. Behr, P. *Aelius Aristides. The Complete Works. Volume II: Orations XVII-LIII.* Leiden, 1981, pp. 185-192.
 - Excerpts on the life of Origen in Eusebius, *Church History 6.* [G.A. Williamson, trans., revised by Andrew Louth, *Eusebius: The History of the Church from Christ to Constantine* (London/New York, 1989), pp. 179-185, 193-209].
 
-### :brain: Guiding Questions
-- Excerpts on the life of Origen in Eusebius, *Church History 6.* [G.A. Williamson, trans., revised by Andrew Louth, *Eusebius: The History of the Church from Christ to Constantine* (London/New York, 1989), pp. 179-185, 193-209].
-
-- About "Regarding the Emperor"
-  - What does the fact that placing the speech in a precise political context has proven challenging say about the role of the Roman emperor in the second and third centuries?
-  - If you had to create a “job ad”, so to speak, for a (good) emperor, reverse engineered from this speech, what sort of qualities would you put down in the ad?  What is a good emperor supposed to do?
-  - If you were to try to date this speech yourself, are there any clues in it—references to political events, predecessors, “good guys” and “bad guys”, that might help you?
-  - Why might it be useful to write a speech that was so impersonal and potentially one-sized fits all?
-- About Eusebius
-  - is there any indication of political crisis and turmoil in the story of Origen as Eusebius reports it?  If not, what does that suggest about the geographical contingency of the “Crisis of the Third Century”?
-  - One characteristic of the third century Roman empire was both the spread of Christianity and its persecution by the Roman state: do you get a sense for either one of these phenomena in the text?
-  - Origen is famous for and associated with many different ideas; one of which is the allegorical interpretation of the Scriptures.  Does reference to this appear at all in the text?
-  - In Matthew 5:30, Jesus famously stated, “And if your right hand causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into hell.”  Eusebius contains a famous account of Origen castrating himself, presumably because he had read this verse and taken it literally.  How could you reconcile Origen’s famous non-literal approach to the Scriptures with his castrating himself?
-  - Do you get any sense in this text for early Christian attitudes towards food, sleep, sex, and death?  We will speak more about these in coming weeks.
 
 
 [Go back to the top](#overview)
