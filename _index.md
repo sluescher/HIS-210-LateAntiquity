@@ -53,6 +53,7 @@ Precept participation counts for **10%** of the final grade, but if you fail to 
 - Excerpts on the life of Origen in Eusebius, *Church History 6.* [G.A. Williamson, trans., revised by Andrew Louth, *Eusebius: The History of the Church from Christ to Constantine* (London/New York, 1989), pp. 179-185, 193-209].
 
 ### :brain: Guiding Questions
+
 - About "Regarding the Emperor"
   - What does the fact that placing the speech in a precise political context has proven challenging say about the role of the Roman emperor in the second and third centuries?
   - If you had to create a “job ad”, so to speak, for a (good) emperor, reverse engineered from this speech, what sort of qualities would you put down in the ad?  What is a good emperor supposed to do?
