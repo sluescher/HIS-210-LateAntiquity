@@ -51,7 +51,7 @@ Precept participation counts for **10%** of the final grade, but if you fail to 
 ### :book: Readings
 - (Ps.-?) Aelius Aristides, “Regarding the Emperor.” From Charles A. Behr, P. *Aelius Aristides. The Complete Works. Volume II: Orations XVII-LIII.* Leiden, 1981, pp. 185-192.
 - Excerpts on the life of Origen in Eusebius, *Church History 6.* [G.A. Williamson, trans., revised by Andrew Louth, *Eusebius: The History of the Church from Christ to Constantine* (London/New York, 1989), pp. 179-185, 193-209].
-Test
+
 ### :brain: Guiding Questions
 - About "Regarding the Emperor"
   - What does the fact that placing the speech in a precise political context has proven challenging say about the role of the Roman emperor in the second and third centuries?
