@@ -18,9 +18,10 @@ In addition to my office hours, I also encourage you to use email to ask questio
 
 ### :clipboard: [Policies](#policies)
 
-## :pushpin: Reminder
-The use of ChatGPT or other generative AI programs is **not** permitted for the completion any of the assignments in this class. Any work that a student turns in that has been written with a generative AI program, in part or in whole, will receive a **grade of 0**.  
-Precept participation counts for **10%** of the final grade, but if you fail to receive a passing mark for the precept you will fail the class.
+## :pushpin: Reminders
+1. The use of ChatGPT or other generative AI programs is **not** permitted for the completion any of the assignments in this class. Any work that a student turns in that has been written with a generative AI program, in part or in whole, will receive a **grade of 0**.
+2. For the precept *only*, you are allowed to use AI according to the [AI Policy of the Department of History](https://history.princeton.edu/undergraduate/policies). If you use AI to brainstorm, you have to disclose it in your writing.
+3. Precept participation counts for **10%** of the final grade, but if you fail to receive a passing mark for the precept you will fail the class.
 
 ## Precept Sessions
 - [Week 02 | **Sep 10**](#september-10)
